@@ -1,0 +1,2 @@
+_id,Patient_ID,Weight_kg,Height_cm,BMI,Disease_Type,Severity,Physical_Activity_Level,Blood_Pressure_mmHg,Dietary_Restrictions,Allergies,Preferred_Cuisine,Weekly_Exercise_Hours,Diet_Recommendation,Cholesterol_mg_dL,Glucose_mg_dL,Diet_type,createdAt,updatedAt,__v
+6815ece065f22f19f636d679,6815e196b668676dbdcec5b2,65,180,20.06,None,None,Active,120,None,,Indian,5,Balanced,100,100,veg,2025-05-03T10:16:00.338Z,2025-05-03T11:45:34.414Z,0

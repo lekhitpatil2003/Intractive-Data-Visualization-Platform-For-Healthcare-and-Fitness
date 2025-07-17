@@ -1,0 +1,148 @@
+_id,name,calories,category,type,protein,carbs,fat
+6814ba437371456578a76bc2,Tofu Stir Fry,200,dinner,vegan,15,10,8
+6814ba437371456578a76bc3,Chickpea Salad,180,lunch,vegan,10,25,5
+6814ba437371456578a76bc4,Vegetable Curry,220,dinner,veg,5,35,10
+6814ba437371456578a76bc5,Grilled Cheese Sandwich,300,lunch,veg,12,30,15
+6814ba437371456578a76bc6,Lentil Soup,150,dinner,vegan,12,20,3
+6814ba437371456578a76bc7,Vegetable Stir Fry,200,dinner,veg,8,30,5
+6814ba437371456578a76bc8,Quinoa Salad,210,lunch,vegan,8,35,7
+6814ba437371456578a76bc9,Black Bean Tacos,250,dinner,vegan,15,35,6
+6814ba437371456578a76bca,Eggplant Parmesan,320,dinner,veg,18,40,15
+6814ba437371456578a76bcb,Chicken Alfredo,500,dinner,nonveg,30,45,25
+6814ba437371456578a76bcc,Beef Stir Fry,400,dinner,nonveg,35,20,20
+6814ba437371456578a76bcd,Salmon with Asparagus,450,dinner,nonveg,40,15,25
+6814ba437371456578a76bce,Mushroom Risotto,350,lunch,veg,12,50,10
+6814ba437371456578a76bcf,Vegetable Pizza,400,lunch,veg,15,50,18
+6814ba437371456578a76bd0,Pasta Primavera,300,dinner,veg,10,60,7
+6814ba437371456578a76bd1,Tofu Scramble,220,breakfast,vegan,18,12,10
+6814ba437371456578a76bd2,Stuffed Bell Peppers,350,lunch,veg,15,40,15
+6814ba437371456578a76bd3,Veggie Burger,300,dinner,vegan,20,30,12
+6814ba437371456578a76bd4,Shrimp Fried Rice,450,dinner,nonveg,30,50,15
+6814ba437371456578a76bd5,Paneer Tikka,400,dinner,veg,25,30,20
+6814ba437371456578a76bd6,Chicken Salad,350,lunch,nonveg,30,15,20
+6814ba437371456578a76bd7,Falafel Wrap,400,lunch,vegan,15,50,15
+6814ba437371456578a76bd8,Spaghetti with Tomato Sauce,350,dinner,veg,12,60,5
+6814ba437371456578a76bd9,Vegetable Samosas,180,snack,veg,5,25,10
+6814ba437371456578a76bda,Chili Con Carne,400,dinner,nonveg,30,25,20
+6814ba437371456578a76bdb,Apple Quinoa Bowl,300,breakfast,vegan,10,55,5
+6814ba437371456578a76bdc,Vegetable Lasagna,450,dinner,veg,25,60,18
+6814ba437371456578a76bdd,Chicken Tacos,320,dinner,nonveg,25,30,10
+6814ba437371456578a76bde,Peanut Butter Banana Smoothie,350,snack,vegan,10,40,15
+6814ba437371456578a76bdf,Vegetable Kebab,250,lunch,vegan,12,30,10
+6814ba437371456578a76be0,Cheese Quesadilla,400,snack,veg,15,35,20
+6814ba437371456578a76be1,BBQ Chicken Wings,500,dinner,nonveg,35,20,30
+6814ba437371456578a76be2,Sweet Potato Fries,200,snack,vegan,5,35,8
+6814ba437371456578a76be3,Vegetarian Sushi,250,lunch,veg,8,50,5
+6814ba437371456578a76be4,Fish Tacos,370,dinner,nonveg,25,30,15
+6814ba437371456578a76be5,Couscous Salad,240,lunch,vegan,8,40,6
+6814ba437371456578a76be6,Zucchini Noodles,150,dinner,vegan,5,7,5
+6814ba437371456578a76be7,Spinach and Ricotta Tortellini,400,dinner,veg,20,55,18
+6814ba437371456578a76be8,Thai Green Curry with Chicken,480,dinner,nonveg,35,40,22
+6814ba437371456578a76be9,Falafel Bowl,500,lunch,vegan,18,55,20
+6814ba437371456578a76bea,Shrimp Caesar Salad,400,lunch,nonveg,30,25,20
+6814ba437371456578a76beb,Creamy Tomato Soup,180,snack,veg,4,25,7
+6814ba437371456578a76bec,Vegetable Ramen,220,dinner,vegan,10,35,8
+6814ba437371456578a76bed,Pork Chop with Applesauce,480,dinner,nonveg,40,20,28
+6814ba437371456578a76bee,Caprese Salad,250,lunch,veg,12,10,18
+6814ba437371456578a76bef,Vegan Chili,280,dinner,vegan,15,40,5
+6814ba437371456578a76bf0,Meatloaf with Mashed Potatoes,500,dinner,nonveg,30,55,25
+6814ba437371456578a76bf1,Tofu Stir Fry 1,397,dinner,vegan,29,16,13
+6814ba437371456578a76bf2,Avocado Toast 2,226,breakfast,veg,30,43,24
+6814ba437371456578a76bf3,Chicken Biryani 3,363,lunch,veg,38,21,10
+6814ba437371456578a76bf4,Vegan Burrito 4,411,breakfast,vegan,36,40,10
+6814ba437371456578a76bf5,Chickpea Curry 5,493,lunch,veg,36,19,15
+6814ba437371456578a76bf6,Egg Salad 6,447,breakfast,nonveg,24,21,21
+6814ba437371456578a76bf7,Vegan Burrito 7,294,dinner,nonveg,34,24,13
+6814ba437371456578a76bf8,Egg Salad 8,435,lunch,vegan,10,19,11
+6814ba437371456578a76bf9,Beef Steak 9,204,dinner,nonveg,24,17,25
+6814ba437371456578a76bfa,Grilled Salmon 10,493,dinner,vegan,40,40,22
+6814ba437371456578a76bfb,Paneer Butter Masala 11,386,lunch,vegan,19,27,11
+6814ba437371456578a76bfc,Vegan Burrito 12,223,breakfast,vegan,32,15,16
+6814ba437371456578a76bfd,Egg Salad 13,238,breakfast,vegan,36,44,6
+6814ba437371456578a76bfe,Avocado Toast 14,257,dinner,nonveg,29,49,15
+6814ba437371456578a76bff,Egg Salad 15,207,breakfast,vegan,38,26,14
+6814ba437371456578a76c00,Vegan Burrito 16,278,dinner,nonveg,35,33,19
+6814ba437371456578a76c01,Tofu Stir Fry 17,240,lunch,nonveg,25,40,17
+6814ba437371456578a76c02,Egg Salad 18,479,dinner,vegan,25,23,12
+6814ba437371456578a76c03,Egg Salad 19,312,breakfast,vegan,19,21,10
+6814ba437371456578a76c04,Tofu Stir Fry 20,342,dinner,nonveg,12,23,6
+6814ba437371456578a76c05,Tofu Stir Fry 21,220,breakfast,vegan,16,14,20
+6814ba437371456578a76c06,Chicken Biryani 22,284,lunch,veg,27,34,20
+6814ba437371456578a76c07,Lentil Soup 23,236,breakfast,nonveg,12,26,16
+6814ba437371456578a76c08,Vegan Burrito 24,284,breakfast,veg,38,31,14
+6814ba437371456578a76c09,Paneer Butter Masala 25,227,breakfast,vegan,35,23,15
+6814ba437371456578a76c0a,Tofu Stir Fry 26,238,breakfast,vegan,12,35,19
+6814ba437371456578a76c0b,Chickpea Curry 27,344,dinner,vegan,18,22,12
+6814ba437371456578a76c0c,Tofu Stir Fry 28,302,breakfast,vegan,23,44,21
+6814ba437371456578a76c0d,Avocado Toast 29,346,dinner,nonveg,26,33,21
+6814ba437371456578a76c0e,Egg Salad 30,440,dinner,vegan,25,27,24
+6814ba437371456578a76c0f,Avocado Toast 31,331,lunch,veg,13,18,17
+6814ba437371456578a76c10,Chickpea Curry 32,297,lunch,veg,33,27,17
+6814ba437371456578a76c11,Egg Salad 33,381,dinner,nonveg,40,32,25
+6814ba437371456578a76c12,Grilled Salmon 34,442,lunch,vegan,25,14,9
+6814ba437371456578a76c13,Chicken Biryani 35,343,lunch,vegan,28,28,25
+6814ba437371456578a76c14,Tofu Stir Fry 36,266,lunch,nonveg,26,41,9
+6814ba437371456578a76c15,Grilled Salmon 37,316,breakfast,vegan,31,12,7
+6814ba437371456578a76c16,Vegan Burrito 38,433,lunch,nonveg,16,27,20
+6814ba437371456578a76c17,Chickpea Curry 39,466,dinner,nonveg,40,49,14
+6814ba437371456578a76c18,Chickpea Curry 40,200,breakfast,veg,29,33,25
+6814ba437371456578a76c19,Avocado Toast 41,328,dinner,vegan,16,50,11
+6814ba437371456578a76c1a,Chicken Biryani 42,376,dinner,nonveg,17,21,10
+6814ba437371456578a76c1b,Vegan Burrito 43,428,breakfast,nonveg,14,24,13
+6814ba437371456578a76c1c,Egg Salad 44,449,lunch,veg,11,28,21
+6814ba437371456578a76c1d,Lentil Soup 45,257,breakfast,veg,29,24,5
+6814ba437371456578a76c1e,Paneer Butter Masala 46,393,lunch,nonveg,19,14,23
+6814ba437371456578a76c1f,Beef Steak 47,200,breakfast,nonveg,20,46,20
+6814ba437371456578a76c20,Vegan Burrito 48,398,breakfast,vegan,11,34,18
+6814ba437371456578a76c21,Grilled Salmon 49,200,breakfast,vegan,11,13,21
+6814ba437371456578a76c22,Chickpea Curry 50,355,breakfast,veg,26,30,18
+6814ba437371456578a76c23,Paneer Butter Masala 51,285,lunch,nonveg,14,10,21
+6814ba437371456578a76c24,Chickpea Curry 52,404,breakfast,veg,29,17,7
+6814ba437371456578a76c25,Chicken Biryani 53,310,dinner,vegan,10,47,14
+6814ba437371456578a76c26,Avocado Toast 54,377,lunch,veg,33,17,22
+6814ba437371456578a76c27,Tofu Stir Fry 55,427,lunch,nonveg,19,28,23
+6814ba437371456578a76c28,Tofu Stir Fry 56,406,lunch,vegan,16,37,8
+6814ba437371456578a76c29,Paneer Butter Masala 57,270,dinner,vegan,14,16,5
+6814ba437371456578a76c2a,Chickpea Curry 58,467,breakfast,vegan,16,28,5
+6814ba437371456578a76c2b,Egg Salad 59,357,dinner,nonveg,36,47,17
+6814ba437371456578a76c2c,Chicken Biryani 60,454,breakfast,vegan,38,39,20
+6814ba437371456578a76c2d,Lentil Soup 61,357,dinner,vegan,21,50,10
+6814ba437371456578a76c2e,Lentil Soup 62,412,lunch,nonveg,14,20,8
+6814ba437371456578a76c2f,Grilled Salmon 63,428,lunch,vegan,27,48,15
+6814ba437371456578a76c30,Lentil Soup 64,404,lunch,nonveg,12,33,11
+6814ba437371456578a76c31,Avocado Toast 65,279,dinner,veg,19,17,21
+6814ba437371456578a76c32,Grilled Salmon 66,276,breakfast,vegan,13,42,21
+6814ba437371456578a76c33,Tofu Stir Fry 67,430,dinner,vegan,30,10,10
+6814ba437371456578a76c34,Egg Salad 68,397,breakfast,nonveg,38,27,6
+6814ba437371456578a76c35,Chicken Biryani 69,273,lunch,vegan,21,21,9
+6814ba437371456578a76c36,Chicken Biryani 70,469,dinner,vegan,10,43,18
+6814ba437371456578a76c37,Beef Steak 71,235,lunch,veg,32,48,23
+6814ba437371456578a76c38,Chickpea Curry 72,261,dinner,veg,39,36,8
+6814ba437371456578a76c39,Chicken Biryani 73,221,breakfast,nonveg,37,26,11
+6814ba437371456578a76c3a,Avocado Toast 74,363,breakfast,nonveg,34,12,24
+6814ba437371456578a76c3b,Lentil Soup 75,229,dinner,vegan,32,47,18
+6814ba437371456578a76c3c,Vegan Burrito 76,464,breakfast,vegan,16,47,7
+6814ba437371456578a76c3d,Chickpea Curry 77,486,lunch,vegan,10,20,22
+6814ba437371456578a76c3e,Chickpea Curry 78,473,lunch,nonveg,32,40,24
+6814ba437371456578a76c3f,Avocado Toast 79,399,breakfast,vegan,17,35,21
+6814ba437371456578a76c40,Chicken Biryani 80,377,breakfast,vegan,27,29,22
+6814ba437371456578a76c41,Beef Steak 81,310,lunch,nonveg,15,34,19
+6814ba437371456578a76c42,Egg Salad 82,426,dinner,nonveg,32,23,14
+6814ba437371456578a76c43,Tofu Stir Fry 83,317,breakfast,nonveg,12,24,12
+6814ba437371456578a76c44,Grilled Salmon 84,446,breakfast,vegan,11,28,12
+6814ba437371456578a76c45,Avocado Toast 85,469,breakfast,vegan,34,45,8
+6814ba437371456578a76c46,Chicken Biryani 86,266,breakfast,vegan,21,33,18
+6814ba437371456578a76c47,Grilled Salmon 87,404,breakfast,veg,18,24,10
+6814ba437371456578a76c48,Lentil Soup 88,458,lunch,vegan,15,31,23
+6814ba437371456578a76c49,Chickpea Curry 89,399,lunch,nonveg,30,45,13
+6814ba437371456578a76c4a,Vegan Burrito 90,485,dinner,vegan,10,20,8
+6814ba437371456578a76c4b,Vegan Burrito 91,373,lunch,vegan,16,10,21
+6814ba437371456578a76c4c,Grilled Salmon 92,258,dinner,nonveg,35,44,10
+6814ba437371456578a76c4d,Paneer Butter Masala 93,497,lunch,veg,37,17,21
+6814ba437371456578a76c4e,Egg Salad 94,240,breakfast,veg,20,32,25
+6814ba437371456578a76c4f,Vegan Burrito 95,203,breakfast,vegan,11,41,24
+6814ba437371456578a76c50,Tofu Stir Fry 96,440,lunch,nonveg,19,36,13
+6814ba437371456578a76c51,Grilled Salmon 97,445,dinner,nonveg,25,42,14
+6814ba437371456578a76c52,Grilled Salmon 98,302,breakfast,nonveg,10,22,21
+6814ba437371456578a76c53,Egg Salad 99,413,dinner,nonveg,34,37,13
+6814ba437371456578a76c54,Beef Steak 100,497,lunch,vegan,40,47,23
